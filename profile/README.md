@@ -8,6 +8,7 @@ With the help of the projects within this organization you can build HTML5 HMI P
 
 * [`sACN-Deno`](https://github.com/LMGU-Technik/sACN-Deno) Deno port of [k-yle/sACN](https://github.com/k-yle/sACN)
 * [`rollup-plugin-jsr`](https://github.com/deno-plc/rollup-plugin-jsr/) Native JSR loader for Rollup/Vite (WIP)
+* [`slip`](https://jsr.io/@deno-plc/slip) Serial Line Internet Protocol
 * [`adapter-tcp`](https://jsr.io/@deno-plc/adapter-tcp)
 * more device adapter coming soon...
 
