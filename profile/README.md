@@ -1,4 +1,4 @@
-# Deno-PLC
+# @Deno-PLC
 
 This is a collection of libraries, templates and code snippets to build [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) and PLC-related applications with [Deno](https://deno.com/) and TypeScript.
 
@@ -14,6 +14,7 @@ With the help of the projects within this organization you can build HTML5 HMI P
 ## Projects:
 
 * [`vite-plugin-deno`](https://jsr.io/@deno-plc/vite-plugin-deno) Use Deno imports (jsr:, https://, ...) with Vite and drop `node_modules`.
+* [`signal-utils`](https://jsr.io/@deno-plc/signal-utils) Small and easy to use utilities for Preact Signals that simplify usage in async code, with Sets, Maps and as timers
 * [`sACN-Deno`](https://github.com/LMGU-Technik/sACN-Deno) Deno port of [k-yle/sACN](https://github.com/k-yle/sACN)
 * [`slip`](https://jsr.io/@deno-plc/slip) TypeScript implmentation of SLIP (Serial Line Internet Protocol)
 * [`adapter-tcp`](https://jsr.io/@deno-plc/adapter-tcp) TCP device adapter
