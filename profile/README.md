@@ -1,6 +1,6 @@
 # @Deno-PLC
 
-This is a collection of libraries, templates and code snippets to build [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) and PLC-related applications with [Deno](https://deno.com/) and TypeScript.
+This is a collection of libraries, templates and code snippets to build [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) and PLC-related applications with [Deno](https://deno.com/), TypeScript and Rust.
 
 With the help of the projects within this organization you can build HTML5 HMI Panels, Home automation applications and everything else which introduces communication with hardware IO devices.
 
